@@ -63,5 +63,12 @@ Agenda: Problem Definition Discussion
 |         Pratik Gadhiya         |      N/A      |        N/A       | Detailed Problem Analysis |
 
 ### 4.2  Meeting 2
+Time: May 19, 2025: 5pm to 9pm  \
+Agenda: Design Constraints and Requirements Discussion
+|           Team Member          |         Previous Task         | Completion State |                 Next Task                 |
+|:------------------------------:|:-----------------------------:|:----------------:|:-----------------------------------------:|
+|         Ramsha Naeem           |    Detailed Problem Analysis  |       100%       | Define Limitations and Gather Requirement |
+|       Kristina Langgard        |    Detailed Problem Analysis  |       100%       | Define Limitations and Gather Requirement |
+|         Pratik Gadhiya         |    Detailed Problem Analysis  |       100%       | Define Limitations and Gather Requirement |
 
 
