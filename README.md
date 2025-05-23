@@ -63,8 +63,14 @@ From our vision and outlined design problem, we are putting an emphasis on the d
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.  Ability to back-up a collection of recipes. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.  Ability to share a collection of recipes with another user. <br>
 
-#### 2.2.2	Objectives
-Provide objectives of the design project. Remember that the objectives are specified as adjectives.
+#### 2.2.2	Objectives <br>
+To accomplish our goals with this application, we have the following objectives in place: <br>
+&nbsp;&nbsp;&nbsp;**1.  User-friendly:** the system should offer a clean and intuitive interface.<br>
+&nbsp;&nbsp;&nbsp;**2.  Efficient:** the system should respond quickly and minimize unnecessary steps. <br>
+&nbsp;&nbsp;&nbsp;**3.  Reliable:** the system should handle data accurately and predictably.<br>
+&nbsp;&nbsp;&nbsp;**4.  Maintainable:** the system should follow clean design principles with modular components to support future development.<br>
+&nbsp;&nbsp;&nbsp;**5.  Secure:** the system should validate user input to prevent invalid or malicious entries and ensure data integrity. <br>
+
 #### 2.2.3	Constraints
 Provide constraints here. Remember that the constraints are binary (either satisfied or not).
 
