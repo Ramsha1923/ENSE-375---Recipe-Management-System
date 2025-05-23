@@ -2,9 +2,13 @@
 
 # Recipe Management System
 
-Ramsha Naeem  
-Kristina Langgard  
-Pratik Gadhiya  
+# Team Members
+- Ramsha Naeem  
+- Kristina Langgard  
+- Pratik Gadhiya  
+
+# Table of Content
+[1-Introduction](#Introduction)
 
 # Introduction
 This project focuses on designing and developing a Recipe Management System, a Java-based desktop application that allows users to create, manage, and search their personal recipes.  
