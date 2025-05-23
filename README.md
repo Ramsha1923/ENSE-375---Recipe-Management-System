@@ -68,7 +68,7 @@ Agenda: Design Constraints and Requirements Discussion
 |           Team Member          |         Previous Task         | Completion State |                 Next Task                 |
 |:------------------------------:|:-----------------------------:|:----------------:|:-----------------------------------------:|
 |         Ramsha Naeem           |    Detailed Problem Analysis  |       100%       | Define Limitations and Gather Requirement |
-|       Kristina Langgard        |    Detailed Problem Analysis  |       100%       | Define Limitations and Gather Requirement |
-|         Pratik Gadhiya         |    Detailed Problem Analysis  |       100%       | Define Limitations and Gather Requirement |
+|       Kristina Langgard        |    Detailed Problem Analysis  |       100%       |    Define Limitations and Gather Needs    |
+|         Pratik Gadhiya         |    Detailed Problem Analysis  |       100%       |            Specify Constraint             |
 
 
