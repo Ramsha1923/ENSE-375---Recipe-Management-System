@@ -11,6 +11,10 @@
 [1-Introduction](#1-Introduction)<br>
 [2-Design Problem](#2-Design-Problem)<br>
 &nbsp;&nbsp;&nbsp;[2.1-Problem Definition](#2.1-Problem-Definition)<br>
+&nbsp;&nbsp;&nbsp;[2.2-Design Requirements](#2.2-Design-Requirements)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.1-Functions](#2.2.1-Functions)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.2-Objectives](#2.2.2-Objectives)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.3-Constraints](#2.2.3-Constraints)<br>
 
 ## 1. Introduction
 This project focuses on designing and developing a Recipe Management System, a Java-based desktop application that allows users to create, manage, and search their personal recipes.  
@@ -34,5 +38,16 @@ A simplified interface focused solely on recipe management avoids clutter and en
 Unlike web-based platforms, this application will function fully offline, ensuring availability in all environments, including kitchens with limited connectivity.<br>
 #### Rationale:
 The need for this project became clear after observing the difficulties faced by home cooks and hobbyists in managing recipes effectively. Paper-based systems are prone to damage and disorganization, while online platforms often come with distractions or require internet access. Our proposed Recipe Management System addresses these issues by offering a simple, efficient, and accessible way to store and retrieve recipes, without unnecessary complications.
+
+### 2.2	Design Requirements
+This section has the following three subsections:
+#### 2.2.1	Functions
+Provide functions of the design project. Remember that the functions contain verbs.
+#### 2.2.2	Objectives
+Provide objectives of the design project. Remember that the objectives are specified as adjectives.
+#### 2.2.3	Constraints
+Provide constraints here. Remember that the constraints are binary (either satisfied or not).
+
+ 
 
 
