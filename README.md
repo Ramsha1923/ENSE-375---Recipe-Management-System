@@ -10,14 +10,14 @@
 ## Table of Content
 [1 Introduction](#1-Introduction)<br>
 [2 Design Problem](#2-Design-Problem)<br>
-&nbsp;&nbsp;&nbsp;[2.1 Problem Definition](#2.1-Problem-Definition)<br>
-&nbsp;&nbsp;&nbsp;[2.2 Design Requirements](#2.2-Design-Requirements)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.1 Functions](#2.2.1-Functions)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.2 Objectives](#2.2.2-Objectives)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.3 Constraints](#2.2.3-Constraints)<br>
+&nbsp;&nbsp;&nbsp;[2.1 Problem Definition](###2.1-Problem-Definition)<br>
+&nbsp;&nbsp;&nbsp;[2.2 Design Requirements](###2.2-Design-Requirements)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.1 Functions](####2.2.1-Functions)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.2 Objectives](####2.2.2-Objectives)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.3 Constraints](####2.2.3-Constraints)<br>
 [4 Team-Work](#4-Team-Work)<br>
-&nbsp;&nbsp;&nbsp;[4.1 Meeting 1](#4.1-Meeting-1)<br>
-&nbsp;&nbsp;&nbsp;[4.2 Meeting 2](#4.2-Meeting-2)<br>
+&nbsp;&nbsp;&nbsp;[4.1 Meeting 1](###4.1-Meeting-1)<br>
+&nbsp;&nbsp;&nbsp;[4.2 Meeting 2](###4.2-Meeting-2)<br>
 
 ## 1. Introduction
 This project focuses on designing and developing a Recipe Management System, a Java-based desktop application that allows users to create, manage, and search their personal recipes.  
