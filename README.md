@@ -71,8 +71,28 @@ To accomplish our goals with this application, we have the following objectives 
 &nbsp;&nbsp;&nbsp;**4.  Maintainable:** the system should follow clean design principles with modular components to support future development.<br>
 &nbsp;&nbsp;&nbsp;**5.  Secure:** the system should validate user input to prevent invalid or malicious entries and ensure data integrity. <br>
 
-#### 2.2.3	Constraints
-Provide constraints here. Remember that the constraints are binary (either satisfied or not).
+#### 2.2.3	Constraints <br>
+
+**Offline capability:** <br>
+- An online database is not necessary to store and retrieve data, but rather a local storage system that mimics the concepts for retrieval and management in large collections. <br>
+- Sharing recipes and backing up a collection of recipes must be done in a way that can be done through file sharing, such as use of a JSON file to store and read information between independent instances of the application. This must include an import/export feature to handle these files for users so they may accomplish this seamlessly. <br>
+**Security:** <br>
+- No information needs to be passed online, and removes the need for account verifications.  <br>
+- File and input verification are important to the integrity and function of the application in all aspects, so we must ensure all inputs to the application are appropriate and malicious behaviour is avoided. This should be achieved by preventing the use of restricted characters and file types.  <br>
+**File types and inputs:** <br>
+- Files may not necessarily be text-based, and may also include images. <br>
+- Tags and filters can and should be able to be used based on text criteria, but must also be applied should the media a user intends to use includes images. <br>
+**Tags and filters:** <br>
+- They may not be based on text-skimming technology due to the variance in accepted file types. <br>
+- User may edit or change them independently. <br>
+- Favoriting recipes as a unique tag and sort option. <br>
+**Removing recipes and data that are no longer wanted:**  <br>
+- Properly disposing of related data to remove unnecessary bloat and preserve privacy. <br>
+**Economically:**  <br>
+- We do not wish to use any external services or paid APIs to accomplish the functions of our application. <br>
+- It is made to be free and open-source, to the benefit of our users. <br>
+**Ethically:** <br>
+- No user account or personal data should be collected, as part of the mindfulness of privacy and security, and all user inputs or outputs shall be handled equally without bias. <br>
 
 ## 4. Team Work
 Weekly meeting records
