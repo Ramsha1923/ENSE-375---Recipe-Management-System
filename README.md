@@ -43,9 +43,26 @@ Unlike web-based platforms, this application will function fully offline, ensuri
 The need for this project became clear after observing the difficulties faced by home cooks and hobbyists in managing recipes effectively. Paper-based systems are prone to damage and disorganization, while online platforms often come with distractions or require internet access. Our proposed Recipe Management System addresses these issues by offering a simple, efficient, and accessible way to store and retrieve recipes, without unnecessary complications.
 
 ### 2.2	Design Requirements
-This section has the following three subsections:
+From our vision and outlined design problem, we are putting an emphasis on the database interactivity and readability of our program, focusing on its core functions and how users will interact with them. 
+
 #### 2.2.1	Functions
-Provide functions of the design project. Remember that the functions contain verbs.
+&nbsp;&nbsp;&nbsp;**1.  Create/store a recipe:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.  Ability to create or upload a recipe in-app.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.  Ability to save the recipe for later use.<br>
+&nbsp;&nbsp;&nbsp;**2.  Viewing a recipe:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.  Ability to retrieve a saved recipe when needed.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.  Ability to retrieve said recipe on different devices, such as a desktop computer, phone, or tablet. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.  Ability to view recipes while offline.<br> 
+&nbsp;&nbsp;&nbsp;**3.  Organizing recipes:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.  Ability to apply custom tags/filters to recipes. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.  Ability to sort by custom tags. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.  Ability to search from saved recipes. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.  Ability to favourite recipes. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.  Ability to remove recipes that are no longer needed. <br>
+&nbsp;&nbsp;&nbsp;**4.  Sharing recipes:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.  Ability to back-up a collection of recipes. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.  Ability to share a collection of recipes with another user. <br>
+
 #### 2.2.2	Objectives
 Provide objectives of the design project. Remember that the objectives are specified as adjectives.
 #### 2.2.3	Constraints
