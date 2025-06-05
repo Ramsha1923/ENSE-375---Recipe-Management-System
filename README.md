@@ -15,6 +15,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.1 Functions](####2.2.1-Functions)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.2 Objectives](####2.2.2-Objectives)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.3 Constraints](####2.2.3-Constraints)<br>
+[3 Solution](#3-Solution)<br>
+&nbsp;&nbsp;&nbsp;[3.1 Solution 1](###3.1-Solution-1)<br>
+&nbsp;&nbsp;&nbsp;[3.2 Solution 2](###3.2-Solution-2)<br>
 [4 Team-Work](#4-Team-Work)<br>
 &nbsp;&nbsp;&nbsp;[4.1 Meeting 1](###4.1-Meeting-1)<br>
 &nbsp;&nbsp;&nbsp;[4.2 Meeting 2](###4.2-Meeting-2)<br>
@@ -96,7 +99,10 @@ To accomplish our goals with this application, we have the following objectives 
 **Ethically:** <br>
 - No user account or personal data should be collected, as part of the mindfulness of privacy and security, and all user inputs or outputs shall be handled equally without bias. <br>
 
-## 4. Team Work
+## 3. Solution  <br>
+### 3.1	Solution 1  <br>
+
+## 4. Team Work  <br>
 Weekly meeting records
 ### 4.1  Meeting 1
 Time: May 14, 2025: 2pm to 5pm  \
