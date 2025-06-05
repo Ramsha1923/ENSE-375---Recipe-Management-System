@@ -101,6 +101,7 @@ To accomplish our goals with this application, we have the following objectives 
 
 ## 3. Solution  <br>
 ### 3.1	Solution 1  <br>
+### 3.2	Solution 2  <br>
 
 ## 4. Team Work  <br>
 Weekly meeting records
