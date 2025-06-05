@@ -114,4 +114,20 @@ Agenda: Design Constraints and Requirements Discussion
 |       Kristina Langgard        |    Detailed Problem Analysis  |       100%       |    Define Limitations and Gather Needs    |
 |         Pratik Gadhiya         |    Detailed Problem Analysis  |       100%       |            Specify Constraint             |
 
+### 4.3  Meeting 3
+Time: May 23, 2025: 5pm to 9pm  \
+Agenda: Solution Discussion and Delegation of Tasks for Solution 1
+|           Team Member          |               Previous Task                 | Completion State |                         Next Task                        |
+|:------------------------------:|:-------------------------------------------:|:----------------:|:--------------------------------------------------------:|
+|         Ramsha Naeem           |   Define Limitations and Gather Requirement |       100%       |   Develop Ideas and Code Implementation for Solution 1   |
+|       Kristina Langgard        |      Define Limitations and Gather Needs    |       100%       |   Develop Ideas and Code Implementation for Solution 1   |
+|         Pratik Gadhiya         |              Specify Constraint             |       100%       |               Identify Possible Approaches               |
 
+### 4.4  Meeting 4
+Time: May 28, 2025: 2pm to 5pm  \
+Agenda: Solution 1 Progress Check and Solution 2 Task Distribution
+|           Team Member          |                     Previous Task                        | Completion State |                            Next Task                           |
+|:------------------------------:|:--------------------------------------------------------:|:----------------:|:--------------------------------------------------------------:|
+|         Ramsha Naeem           |   Develop Ideas and Code Implementation for Solution 1   |       100%       |    Examine Solution 1 Outcomes and Write Code for Solution 2   |
+|       Kristina Langgard        |   Develop Ideas and Code Implementation for Solution 1   |       100%       |    Examine Solution 1 Outcomes and Write Code for Solution 2   |
+|         Pratik Gadhiya         |               Identify Possible Approaches               |       100%       |       Review Solution 1 and Perform Markdown Syntax Check      |
