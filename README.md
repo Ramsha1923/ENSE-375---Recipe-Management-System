@@ -15,6 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.1 Functions](####2.2.1-Functions)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.2 Objectives](####2.2.2-Objectives)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.3 Constraints](####2.2.3-Constraints)<br>
+&nbsp;&nbsp;&nbsp;[2.3 Components & Limitations](###2.3Components-&-Limitations)<br>
 [3 Solution](#3-Solution)<br>
 &nbsp;&nbsp;&nbsp;[3.1 Solution 1](###3.1-Solution-1)<br>
 &nbsp;&nbsp;&nbsp;[3.2 Solution 2](###3.2-Solution-2)<br>
@@ -98,6 +99,23 @@ To accomplish our goals with this application, we have the following objectives 
 - It is made to be free and open-source, to the benefit of our users. <br>
 **Ethically:** <br>
 - No user account or personal data should be collected, as part of the mindfulness of privacy and security, and all user inputs or outputs shall be handled equally without bias. <br>
+
+### 2.3	Components & Limitations
+
+##  System Components
+- **User Interface**: JavaFX-based GUI
+- **Data Model**: Recipe structure with title, ingredients, instructions, tags, image
+- **Storage**: Local JSON file system for persistence
+- **Search Engine**: Title/tag/ingredient-based lookup
+- **Image Handler**: Support for local images
+- **Import/Export**: JSON-based data sharing
+
+##  Limitations
+- No cloud sync or user authentication
+- Sharing is manual via exported files
+- No smart tagging or AI categorization
+- Desktop-only application
+- No accessibility features (e.g. screen readers)
 
 ## 3. Solution  <br>
 ### 3.1	Solution 1  <br>
