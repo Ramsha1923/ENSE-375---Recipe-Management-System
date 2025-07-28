@@ -99,6 +99,24 @@ To accomplish our goals with this application, we have the following objectives 
 **Ethically:** <br>
 - No user account or personal data should be collected, as part of the mindfulness of privacy and security, and all user inputs or outputs shall be handled equally without bias. <br>
 
+### 2.3	Components & Limitations
+
+##  System Components
+- **User Interface**: JavaFX-based GUI
+- **Data Model**: Recipe structure with title, ingredients, instructions, tags, image
+- **Storage**: Local JSON file system for persistence
+- **Search Engine**: Title/tag/ingredient-based lookup
+- **Image Handler**: Support for local images
+- **Import/Export**: JSON-based data sharing
+
+##  Limitations
+- No cloud sync or user authentication
+- Sharing is manual via exported files
+- No smart tagging or AI categorization
+- Desktop-only application
+- No accessibility features (e.g. screen readers)
+
+
 ## 3. Solution  <br>
 ### 3.1	Solution 1  <br>
 ### 3.2	Solution 2  <br>
