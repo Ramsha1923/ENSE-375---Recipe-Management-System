@@ -1,0 +1,7 @@
+src/main/recipe/Main.java
+src/main/recipe/controller/RecipeController.java
+src/main/recipe/model/Recipe.java
+src/main/recipe/storage/RecipeStorage.java
+src/main/recipe/ui/MainUI.java
+tests/recipe/controller/RecipeControllerTest.java
+tests/recipe/storage/RecipeStorageTest.java
