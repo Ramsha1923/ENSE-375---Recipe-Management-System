@@ -15,6 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.1 Functions](####2.2.1-Functions)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.2 Objectives](####2.2.2-Objectives)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.3 Constraints](####2.2.3-Constraints)<br>
+&nbsp;&nbsp;&nbsp;[2.3 Components & Limitations](###2.3Components-&-Limitations)<br>
 [3 Solution](#3-Solution)<br>
 &nbsp;&nbsp;&nbsp;[3.1 Solution 1](###3.1-Solution-1)<br>
 &nbsp;&nbsp;&nbsp;[3.2 Solution 2](###3.2-Solution-2)<br>
@@ -115,7 +116,6 @@ To accomplish our goals with this application, we have the following objectives 
 - No smart tagging or AI categorization
 - Desktop-only application
 - No accessibility features (e.g. screen readers)
-
 
 ## 3. Solution  <br>
 ### 3.1	Solution 1  <br>
