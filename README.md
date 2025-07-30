@@ -158,3 +158,66 @@ Agenda: Solution 1 Progress Check and Solution 2 Task Distribution
 |         Ramsha Naeem           |   Develop Ideas and Code Implementation for Solution 1   |       100%       |    Examine Solution 1 Outcomes and Write Code for Solution 2   |
 |       Kristina Langgard        |   Develop Ideas and Code Implementation for Solution 1   |       100%       |    Examine Solution 1 Outcomes and Write Code for Solution 2   |
 |         Pratik Gadhiya         |               Identify Possible Approaches               |       100%       |       Review Solution 1 and Perform Markdown Syntax Check      |
+
+### 4.5  Meeting 5
+Time: May 28, 2025: 2pm to 5pm  \
+Agenda: Review Progress on Solution 2
+|           Team Member          |                        Previous Task                           | Completion State |               Next Task              |
+|:------------------------------:|:--------------------------------------------------------------:|:----------------:|:------------------------------------:|
+|         Ramsha Naeem           |   Examine Solution 1 Outcomes and Write Code for Solution 2    |       80%        |          Finalize Solution 2         |
+|       Kristina Langgard        |   Examine Solution 1 Outcomes and Write Code for Solution 2    |       75%        |          Finalize Solution 2         |
+|         Pratik Gadhiya         |    Review Solution 1 and Perform Markdown Syntax Check         |       75%        |   Complete REPORT.md up to Week 7    |
+
+### 4.6  Meeting 6
+Time: June 1, 2025: 2pm to 5pm  \
+Agenda: Discuss Final Solution Planning
+|           Team Member          |              Previous Task              | Completion State |                     Next Task                  |
+|:------------------------------:|:---------------------------------------:|:----------------:|:----------------------------------------------:|
+|         Ramsha Naeem           |           Finalize Solution 2           |       100%       |     Brainstorm features for final solution     |
+|       Kristina Langgard        |           Finalize Solution 2           |       100%       |       Plan testing for final solution          |
+|         Pratik Gadhiya         |     Complete REPORT.md up to Week 7     |       100%       |     Brainstorm features for final solution     |
+
+### 4.7  Meeting 7
+Time: June 14, 2025: 5pm to 8pm  \
+Agenda: Assign Final Solution Tasks
+|           Team Member          |                  Previous Task                    | Completion State |                    Next Task                  |
+|:------------------------------:|:-------------------------------------------------:|:----------------:|:---------------------------------------------:|
+|         Ramsha Naeem           |      Brainstorm features for final solution       |       100%       |     Implement and test the final solution     |
+|       Kristina Langgard        |          Plan testing for final solution          |       100%       |      Develop code for the final solution      |
+|         Pratik Gadhiya         |      Brainstorm features for final solution       |       100%       |     Provide feedback on the final solution    |
+
+### 4.8  Meeting 8
+Time: June 15, 2025: 2pm to 6pm  \
+Agenda: Review Final Solution Progress
+|           Team Member          |                     Previous Task                        | Completion State |                               Next Task                            |
+|:------------------------------:|:--------------------------------------------------------:|:----------------:|:------------------------------------------------------------------:|
+|         Ramsha Naeem           |          Implement and test the final solution           |       50%        |     Continue coding and testing the solution with Documentation    |
+|       Kristina Langgard        |           Develop code for the final solution            |       50%        |               Continue developing the final solution               |
+|         Pratik Gadhiya         |          Provide feedback on the final solution          |       60%        |                         Continue feedback                          |
+
+### 4.9  Meeting 9
+Time: June 12, 2025: 4pm to 9pm  \
+Agenda: Final Progress Review
+|           Team Member          |                          Previous Task                            | Completion State |                      Next Task                      |
+|:------------------------------:|:-----------------------------------------------------------------:|:----------------:|:---------------------------------------------------:|
+|         Ramsha Naeem           |   Continue coding and testing the solution with 	Documentation    |       80%        |      Finalize coding, testing, and documentation    |
+|       Kristina Langgard        |              Continue developing the final solution               |       80%        |               Finalize developement                 | 
+|         Pratik Gadhiya         |                        Continue feedback                          |       70%        |                  complete report                    |
+
+### 4.10  Meeting 10
+Time: July 25, 2025: 2pm to 5pm  \
+Agenda: Presentation Task Assignment
+|           Team Member          |                Previous Task                   | Completion State |                    Next Task                  |
+|:------------------------------:|:----------------------------------------------:|:----------------:|:---------------------------------------------:|
+|         Ramsha Naeem           |  Finalize coding, testing, and documentation   |       100%       |    Prepare slides and rehearse presentation   |
+|       Kristina Langgard        |             Finalize developement              |       100%       |           Prepare for presentation            |
+|         Pratik Gadhiya         |               complete report                  |       100%       |              Finalize REPORT                  |
+
+### 4.11  Meeting 11
+Time: July 28, 2025: 2pm to 5pm  \
+Agenda: Presentation Recording
+|           Team Member          |              Previous Task                  | Completion State |                            Next Task                           |
+|:------------------------------:|:-------------------------------------------:|:----------------:|:--------------------------------------------------------------:|
+|         Ramsha Naeem           |   Prepare slides and rehearse presentation  |       100%       |         	 Complete recording and all documentation            |
+|       Kristina Langgard        |          Prepare for presentation           |       100%       |                     Complete the recording                     |
+|         Pratik Gadhiya         |              Finalize REPORT                |       100%       |                     Complete the recording                     |
