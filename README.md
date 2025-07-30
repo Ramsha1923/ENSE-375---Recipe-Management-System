@@ -19,7 +19,7 @@
 [3 Solution](#3-Solution)<br>
 &nbsp;&nbsp;&nbsp;[3.1 Solution 1](###3.1-Solution-1)<br>
 &nbsp;&nbsp;&nbsp;[3.2 Solution 2](###3.2-Solution-2)<br>
-&nbsp;&nbsp;&nbsp;[3.3 Final_Solution](###3.3-Final-Solution)<br>
+&nbsp;&nbsp;&nbsp;[3.3 Final Solution](###3.3-Final-Solution)<br>
 
 [4 Team-Work](#4-Team-Work)<br>
 &nbsp;&nbsp;&nbsp;[4.1 Meeting 1](###4.1-Meeting-1)<br>
