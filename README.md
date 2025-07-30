@@ -24,6 +24,13 @@
 &nbsp;&nbsp;&nbsp;[4.2 Meeting 2](###4.2-Meeting-2)<br>
 &nbsp;&nbsp;&nbsp;[4.3 Meeting 3](###4.3-Meeting-3)<br>
 &nbsp;&nbsp;&nbsp;[4.4 Meeting 4](###4.4-Meeting-4)<br>
+&nbsp;&nbsp;&nbsp;[4.5 Meeting 5](###4.5-Meeting-5)<br>
+&nbsp;&nbsp;&nbsp;[4.6 Meeting 6](###4.6-Meeting-6)<br>
+&nbsp;&nbsp;&nbsp;[4.7 Meeting 7](###4.7-Meeting-7)<br>
+&nbsp;&nbsp;&nbsp;[4.8 Meeting 8](###4.8-Meeting-8)<br>
+&nbsp;&nbsp;&nbsp;[4.9 Meeting 9](###4.9-Meeting-9)<br>
+&nbsp;&nbsp;&nbsp;[4.10 Meeting 10](###4.10-Meeting-10)<br>
+&nbsp;&nbsp;&nbsp;[4.11 Meeting 11](###4.11-Meeting-11)<br>
 
 ## 1. Introduction
 This project focuses on designing and developing a Recipe Management System, a Java-based desktop application that allows users to create, manage, and search their personal recipes.  
