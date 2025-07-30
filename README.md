@@ -131,8 +131,8 @@ To accomplish our goals with this application, we have the following objectives 
 **Overview** <br>
 Solution 1 proposes building a basic Java desktop application for recipe management, where each recipe is stored as a separate plain text file (.txt) on the user's local computer. The application provides a minimal graphical user interface (GUI) for users to create, view, and delete recipes. All recipes are saved in a single folder, with each recipe occupying its own file. 
 
-**How It Works**
-**Recipe Creation**
+**How It Works**  <br>
+**Recipe Creation**  <br>
 - The user clicks an “Add Recipe” button in the application.
 - A form appears, allowing the user to enter the recipe title, ingredients, and instructions.
 - When the user clicks “Save,” the application concatenates all the entered information into a single string and writes it to a new .txt file.
