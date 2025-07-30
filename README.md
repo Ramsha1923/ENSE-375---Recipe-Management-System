@@ -182,6 +182,12 @@ Solution 1 proposes building a basic Java desktop application for recipe managem
 **In summary:** Solution 1a is a simple and easy-to-implement approach that works for the most basic use case of storing and viewing recipes. However, it lacks structure, organization, and extensibility, making it unsuitable for a robust, testable, and maintainable recipe management system.
 
 ### 3.2	Solution 2  <br>
+**PHP/MySQL** <br>
+Our next consideration, since we already anticipated something web-based, was to use PHP and mySQL. Since we intend to store and retrieve recipes, this seemed like a natural choice, encouraging dynamic interaction. However, it lacked two key interests in our design; the ability to be standalone, and the ability to be easy to test.
+We want our Recipe Management System to be able to be used on multiple devices, and be able to upload and download recipes of the user’s own collection, so it may be used offline, and that is not feasible with something that exists solely on the web. Additionally, it would require the use of a domain, which, even if we hosted one ourselves, would have a cost associated with it. Lastly, there were also security risks to consider with it being online all the time. While the data we may be storing is unlikely to be sensitive, we should still be considering our users’ privacy as a priority.
+Finally, the ability to test with PHP is quite vague. Error messaging is lackluster, and the operation of commands between a database with mySQL would not prevent us from making mistakes. We consider this to be an important factor as well with this solution, as we do want to emphasize correctness and reliability in our project.
+
+### 3.3 Final	Solution  <br>
 
 ## 4. Team Work  <br>
 Weekly meeting records
