@@ -212,6 +212,7 @@ Our final solution (Solution 3) combines both ConsoleUI and JavaFX GUI interface
 - RecipeController – Acts as the logic layer between UI and storage.
 - ConsoleUI & GUI (JavaFX) – Interfaces for user interaction (menu-driven & visual).
 - Export Modules (CSV/PDF) – Allow users to share or back up recipes. <br>
+![Block Diagram](https://github.com/Ramsha1923/ENSE-375---Recipe-Management-System/raw/main/3%20-%20Solutions/Block%20Diagram.png)
  
 **Testing Methods:** <br>
 - Recipe Model: Unit Testing (data validation).
@@ -222,7 +223,7 @@ Our final solution (Solution 3) combines both ConsoleUI and JavaFX GUI interface
 **Features:** <br>
 
 As defined previously, the key features of our app will revolve around the ability to create/save a recipe, view a saved recipe, and organize recipes by custom tags.<br>
- 
+![Feature](https://github.com/Ramsha1923/ENSE-375---Recipe-Management-System/blob/main/3%20-%20Solutions/Feature.png)
 The user should find a landing page, from which they may select any of these core features to interact with the application. Viewing the list should show all stored recipes. There should be options to filter or search through these recipes, or to set these filters from the beginning, should that be more convenient.<br>
 
 Upon viewing a recipe, there should be an option to export the single recipe, or the entire database, allowing users to share their recipes with others. Similarly, when adding a recipe, a user should be able to upload them manually, or select an export file they were given to upload the information and begin using the new recipe(s) right away. A user should also be able to delete a recipe if they see fit, or be able to edit, add pictures, or change instructions. This information should all be saved and kept in the local database structure.<br>
