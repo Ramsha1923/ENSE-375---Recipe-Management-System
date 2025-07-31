@@ -197,13 +197,14 @@ Our final solution (Solution 3) combines both ConsoleUI and JavaFX GUI interface
 - Data security is higher due to local-only storage, with controlled export/import. <br>
 
 **Comparison Table:** <br>
-Feature/Criteria	Solution 1	Solution 2	Solution 3 (Final)
-Interface	Console only	GUI only (complex)	Console + GUI (flexible)
-Storage	Local JSON	Cloud DB (extra cost)	Local JSON (secure & simple)
-Testing Coverage	Minimal	Moderate	Extensive (4 test suites)
-Offline Support	Yes	No	Yes (full offline)
-Export/Import	No	CSV only	CSV + PDF
-Complexity & Usability	Low	High	Balanced & user-friendly
+|   Feature/Criteria   |   Solution 1   |     Solution 2     |   Final Solution 3    |
+|:--------------------:|:--------------:|:------------------:|:---------------------:|
+|      Interface       |  Console only  | GUI only (complex) | Console + GUI (flexible) |
+|      Storage        |      Local JSON     | Cloud DB (extra cost)   | Local JSON (secure & simple) |
+|         Testing Coverage        |     Minimal     |       Moderate       | Extensive (4 test suites) |
+|         Offline Support          |     Yes    |        No       | Yes (full offline) |
+|     Export/Import       |      No     |        CSV Only       | CSV + PDF |
+|     Complexity & Usability       |      Low      |        High       | Balanced & user-friendly |
 
 ### 3.3.1 Components <br>
 - Recipe Model – Stores recipe data (title, ingredients, steps, categories, author).
