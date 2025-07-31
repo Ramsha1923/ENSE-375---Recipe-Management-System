@@ -1,0 +1,16 @@
+[
+  {
+    "title": "A",
+    "ingredients": [
+      "a",
+      "b"
+    ],
+    "steps": [
+      "s1"
+    ],
+    "categories": [
+      "c1"
+    ],
+    "author": "x"
+  }
+]

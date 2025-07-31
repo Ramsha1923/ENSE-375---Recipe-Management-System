@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="recipe.ui.MainController" prefWidth="900" prefHeight="600">
+    <top>
+        <ToolBar>
+            <Button fx:id="addButton" text="Add" onAction="#onAdd"/>
+            <Button fx:id="deleteButton" text="Delete" onAction="#onDelete"/>
+            <Separator/>
+            <Button fx:id="exportCsvButton" text="Export CSV" onAction="#onExportCsv"/>
+            <Button fx:id="exportPdfButton" text="Export PDF" onAction="#onExportPdf"/>
+        </ToolBar>
+    </top>
+    <center>
+        <TableView fx:id="table">
+            <columns>
+                <TableColumn fx:id="titleCol" text="Title" prefWidth="300"/>
+                <TableColumn fx:id="authorCol" text="Author" prefWidth="200"/>
+            </columns>
+        </TableView>
+    </center>
+</BorderPane>

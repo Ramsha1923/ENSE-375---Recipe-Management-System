@@ -1,6 +1,10 @@
+recipe\auth\UserService$1.class
+recipe\auth\UserService.class
+recipe\ui\MainController.class
+recipe\ui\RecipeApp.class
 recipe\ui\ConsoleUI.class
 recipe\storage\RecipeStorage.class
 recipe\storage\RecipeStorage$1.class
-recipe\Main.class
 recipe\controller\RecipeController.class
 recipe\model\Recipe.class
+recipe\ui\LoginController.class
