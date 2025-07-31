@@ -361,4 +361,4 @@ Agenda: Presentation Recording
 |         Pratik Gadhiya         |              Finalize REPORT                |       100%       |                     Complete the recording                     |
 
 ## Project Management: <br>
-![My Uploaded Image](https://user-images.githubusercontent.com/.../your-image.png)
+![My Uploaded Image](3 - Solutions/3.3.2.3 Gantt Chart.pdf)
