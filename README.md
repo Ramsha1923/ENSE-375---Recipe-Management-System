@@ -20,7 +20,10 @@
 &nbsp;&nbsp;&nbsp;[3.1 Solution 1](###3.1-Solution-1)<br>
 &nbsp;&nbsp;&nbsp;[3.2 Solution 2](###3.2-Solution-2)<br>
 &nbsp;&nbsp;&nbsp;[3.3 Final Solution](###3.3-Final-Solution)<br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.3.1 Components](####3.3.1-Components)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.3.2 Environmental, Societal, Safety, and Economic Considerations](####3.3.2-Environmental,-Societal,-Safety,-and-Economic-Considerations)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.3.3 Test Cases and results](####3.3.3-Test-Cases-and-results)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.3.4 Limitations](####3.3.4-Limitations)<br>
 [4 Team-Work](#4-Team-Work)<br>
 &nbsp;&nbsp;&nbsp;[4.1 Meeting 1](###4.1-Meeting-1)<br>
 &nbsp;&nbsp;&nbsp;[4.2 Meeting 2](###4.2-Meeting-2)<br>
@@ -33,6 +36,8 @@
 &nbsp;&nbsp;&nbsp;[4.9 Meeting 9](###4.9-Meeting-9)<br>
 &nbsp;&nbsp;&nbsp;[4.10 Meeting 10](###4.10-Meeting-10)<br>
 &nbsp;&nbsp;&nbsp;[4.11 Meeting 11](###4.11-Meeting-11)<br>
+[5 Project Management](#5-Project-Management)<br>
+[6 Conclusion](#6-Conclusion)<br>
 
 ## 1. Introduction
 This project focuses on designing and developing a Recipe Management System, a Java-based desktop application that allows users to create, manage, and search their personal recipes.  
@@ -223,7 +228,7 @@ Our final solution (Solution 3) combines both ConsoleUI and JavaFX GUI interface
 **Features:** <br>
 
 As defined previously, the key features of our app will revolve around the ability to create/save a recipe, view a saved recipe, and organize recipes by custom tags.<br>
-![Feature](https://github.com/Ramsha1923/ENSE-375---Recipe-Management-System/blob/main/3%20-%20Solutions/Feature.png)
+![Feature](https://github.com/Ramsha1923/ENSE-375---Recipe-Management-System/blob/main/3%20-%20Solutions/Feature.png) <br>
 The user should find a landing page, from which they may select any of these core features to interact with the application. Viewing the list should show all stored recipes. There should be options to filter or search through these recipes, or to set these filters from the beginning, should that be more convenient.<br>
 
 Upon viewing a recipe, there should be an option to export the single recipe, or the entire database, allowing users to share their recipes with others. Similarly, when adding a recipe, a user should be able to upload them manually, or select an export file they were given to upload the information and begin using the new recipe(s) right away. A user should also be able to delete a recipe if they see fit, or be able to edit, add pictures, or change instructions. This information should all be saved and kept in the local database structure.<br>
@@ -362,10 +367,10 @@ Agenda: Presentation Recording
 |       Kristina Langgard        |          Prepare for presentation           |       100%       |                     Complete the recording                     |
 |         Pratik Gadhiya         |              Finalize REPORT                |       100%       |                     Complete the recording                     |
 
-## Project Management: <br>
+## 5. Project Management: <br>
 ![Gantt Chart](https://github.com/Ramsha1923/ENSE-375---Recipe-Management-System/raw/main/3%20-%20Solutions/gantt%20chart.png)
 
-## Conclusion: <br>
+## 6. Conclusion: <br>
 The Recipe Manager project has successfully achieved its objectives by providing a simple, reliable, and user-friendly solution for managing recipes. Throughout the project, we explored multiple solutions, starting from a basic console-based application (Solution 1), then enhancing usability with a GUI (Solution 2), and finally integrating both interfaces along with additional features like export/import functionality in Solution 3.<br>
 
 The final solution is robust and efficient, designed with offline functionality, minimal dependencies, and support for multiple data formats (JSON, CSV, PDF). Its modular design allows for future scalability, while the comprehensive test strategy (Boundary Value, Decision Table, State Transition, and Unit Testing) ensured system reliability.<br>
