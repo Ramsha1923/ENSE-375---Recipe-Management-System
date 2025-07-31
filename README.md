@@ -205,7 +205,7 @@ Offline Support	Yes	No	Yes (full offline)
 Export/Import	No	CSV only	CSV + PDF
 Complexity & Usability	Low	High	Balanced & user-friendly
 
-## 3.3.1 Components <br>
+### 3.3.1 Components <br>
 - Recipe Model – Stores recipe data (title, ingredients, steps, categories, author).
 - RecipeStorage (JSON) – Handles load/save, export/import of recipes.
 - RecipeController – Acts as the logic layer between UI and storage.
@@ -228,7 +228,7 @@ Upon viewing a recipe, there should be an option to export the single recipe, or
 
 Some of these features should feel redundant, so they maintain consistency, and that is by design. Keeping the format simple is considered a feature here, as overcomplicated visions of these types of applications exist in plenty already.<br>
 
-## 3.3.2 Environmental, Societal, Safety, and Economic Considerations: <br>
+### 3.3.2 Environmental, Societal, Safety, and Economic Considerations: <br>
 
 Our considerations on the impact of our project were mostly baked into the idea of the project from the beginning. We wanted to create something that would respect our users, and in turn, respect the resources we are using to make and operate our project.<br>
 
@@ -242,7 +242,7 @@ Finally, economically, we stand to make no profit from this project given the ci
 
 Overall, we believe the considerations we made with this project exhibit the respect to other people who will make use of our project that we expect in applications we use ourselves. These are qualities we push onto ourselves in our work, and hope to positively reflect in our careers in the future.<br>
 
-## 3.3.3 Test Cases and results <br>
+### 3.3.3 Test Cases and results <br>
 
 We developed a suite of tests to validate each component:
 - Boundary Value Testing: Checked limits (e.g., max ingredients, empty titles).
@@ -253,7 +253,7 @@ We developed a suite of tests to validate each component:
 Results: All tests passed successfully. The system behaved correctly under normal and edge cases, demonstrating stability and reliability.
 Tests were executed using `mvn clean test` and all passed successfully.<br>
 
-## 3.3.4 Limitations <br>
+### 3.3.4 Limitations <br>
 - No built-in cloud backup or sync (only local storage).
 - GUI is basic and may need enhancements for large recipe collections.
 - Currently supports only CSV & PDF exports (no direct Word/Excel export).
@@ -359,3 +359,6 @@ Agenda: Presentation Recording
 |         Ramsha Naeem           |   Prepare slides and rehearse presentation  |       100%       |         	 Complete recording and all documentation            |
 |       Kristina Langgard        |          Prepare for presentation           |       100%       |                     Complete the recording                     |
 |         Pratik Gadhiya         |              Finalize REPORT                |       100%       |                     Complete the recording                     |
+
+## Project Management: <br>
+![My Uploaded Image](https://user-images.githubusercontent.com/.../your-image.png)
