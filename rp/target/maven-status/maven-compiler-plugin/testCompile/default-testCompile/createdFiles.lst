@@ -1,6 +1,0 @@
-tests\java\recipe\DecisionTableTest\RecipeDecisionTableTest.class
-recipe\testcases\RecipeUnitTest.class
-tests\java\recipe\BoundaryValueTesting\RecipeBoundaryTest.class
-recipe\controller\RecipeControllerTest.class
-recipe\storage\RecipeStorageTest.class
-tests\java\recipe\StateTransitionTest\RecipeStateTransitionTest.class

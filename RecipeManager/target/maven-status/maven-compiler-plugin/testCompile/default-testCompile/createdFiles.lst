@@ -1,0 +1,6 @@
+recipe\statetransitiontest\RecipeStateTransitionTest.class
+recipe\boundaryvaluetesting\RecipeBoundaryTest.class
+recipe\unittest\RecipeUnitTest.class
+recipe\decisiontabletest\RecipeDecisionTableTest.class
+recipe\controller\RecipeControllerTest.class
+recipe\storage\RecipeStorageTest.class

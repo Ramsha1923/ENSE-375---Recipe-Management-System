@@ -22,6 +22,9 @@ public void start() {
         System.out.println("2. View Recipes");
         System.out.println("3. Delete Recipe");
         System.out.println("4. Exit");
+        System.out.println("5. Export CSV");
+        System.out.println("6. Export PDF");
+    
         System.out.print("Choose an option: ");
 
         String input = scanner.nextLine();
