@@ -361,4 +361,4 @@ Agenda: Presentation Recording
 |         Pratik Gadhiya         |              Finalize REPORT                |       100%       |                     Complete the recording                     |
 
 ## Project Management: <br>
-![My Uploaded Image](3 - Solutions/3.3.2.3 Gantt Chart.pdf)
+![My Uploaded Image](https://github.com/Ramsha1923/ENSE-375---Recipe-Management-System/blob/main/3%20-%20Solutions/3.3.2.3%20Gantt%20Chart.pdf)
